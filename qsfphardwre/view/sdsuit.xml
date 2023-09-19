@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="ProtoWizard">
+	<item key="Message" value=""/>
+	<item key="exportpath" value=""/>
+	<item key="exportfolder" value=""/>
+	<section name="Local">
+		<section name="Local0">
+			<item key="num" value="1"/>
+			<item key="path" value=""/>
+			<item key="name" value=""/>
+			<item key="date" value=""/>
+			<item key="size" value=""/>
+			<item key="select" value="false"/>
+		</section>
+		<section name="Local1">
+			<item key="num" value="2"/>
+			<item key="path" value=""/>
+			<item key="name" value=""/>
+			<item key="date" value=""/>
+			<item key="size" value=""/>
+			<item key="select" value="false"/>
+		</section>
+		<section name="Local2">
+			<item key="num" value="3"/>
+			<item key="path" value=""/>
+			<item key="name" value=""/>
+			<item key="date" value=""/>
+			<item key="size" value=""/>
+			<item key="select" value="false"/>
+		</section>
+		<section name="Local3">
+			<item key="num" value="4"/>
+			<item key="path" value=""/>
+			<item key="name" value=""/>
+			<item key="date" value=""/>
+			<item key="size" value=""/>
+			<item key="select" value="false"/>
+		</section>
+		<section name="Local4">
+			<item key="num" value="5"/>
+			<item key="path" value=""/>
+			<item key="name" value=""/>
+			<item key="date" value=""/>
+			<item key="size" value=""/>
+			<item key="select" value="false"/>
+		</section>
+		<section name="Local5">
+			<item key="num" value="6"/>
+			<item key="path" value=""/>
+			<item key="name" value=""/>
+			<item key="date" value=""/>
+			<item key="size" value=""/>
+			<item key="select" value="false"/>
+		</section>
+		<section name="Local6">
+			<item key="num" value="7"/>
+			<item key="path" value=""/>
+			<item key="name" value=""/>
+			<item key="date" value=""/>
+			<item key="size" value=""/>
+			<item key="select" value="false"/>
+		</section>
+		<section name="Local7">
+			<item key="num" value="8"/>
+			<item key="path" value=""/>
+			<item key="name" value=""/>
+			<item key="date" value=""/>
+			<item key="size" value=""/>
+			<item key="select" value="false"/>
+		</section>
+	</section>
+	<section name="Remote">
+		<section name="Remote0">
+			<item key="num" value="SUIT1"/>
+			<item key="name" value="SUIT1"/>
+			<item key="date" value="2023/06/12 10:57:46"/>
+			<item key="size" value="42.95MB"/>
+			<item key="select" value="false"/>
+		</section>
+		<section name="Remote1">
+			<item key="num" value="SUIT2"/>
+			<item key="name" value=""/>
+			<item key="date" value=""/>
+			<item key="size" value=""/>
+			<item key="select" value="false"/>
+		</section>
+		<section name="Remote2">
+			<item key="num" value="SUIT3"/>
+			<item key="name" value=""/>
+			<item key="date" value=""/>
+			<item key="size" value=""/>
+			<item key="select" value="false"/>
+		</section>
+		<section name="Remote3">
+			<item key="num" value="SUIT4"/>
+			<item key="name" value=""/>
+			<item key="date" value=""/>
+			<item key="size" value=""/>
+			<item key="select" value="false"/>
+		</section>
+		<section name="Remote4">
+			<item key="num" value="SUIT5"/>
+			<item key="name" value=""/>
+			<item key="date" value=""/>
+			<item key="size" value=""/>
+			<item key="select" value="false"/>
+		</section>
+		<section name="Remote5">
+			<item key="num" value="SUIT6"/>
+			<item key="name" value=""/>
+			<item key="date" value=""/>
+			<item key="size" value=""/>
+			<item key="select" value="false"/>
+		</section>
+		<section name="Remote6">
+			<item key="num" value="SUIT7"/>
+			<item key="name" value=""/>
+			<item key="date" value=""/>
+			<item key="size" value=""/>
+			<item key="select" value="false"/>
+		</section>
+		<section name="Remote7">
+			<item key="num" value="SUIT8"/>
+			<item key="name" value=""/>
+			<item key="date" value=""/>
+			<item key="size" value=""/>
+			<item key="select" value="false"/>
+		</section>
+	</section>
+</section>

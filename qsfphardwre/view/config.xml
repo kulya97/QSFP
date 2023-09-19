@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="ProtoWizard">
+	<item key="Message" value=""/>
+	<section name="fpgaid0">
+		<item key="fpgaID" value="FPGA-A"/>
+		<section name="config">
+			<item key="show_item" value="enable"/>
+			<item key="switch_clk" value="GCCLKT0,SCLK2;GCCLKB0,ZCLK2"/>
+			<item key="clk_number" value="4"/>
+			<section name="CLOCK0">
+				<item key="name" value="GCCLKT0"/>
+				<item key="select" value="true"/>
+				<item key="status" value="INTERNAL"/>
+			</section>
+			<section name="CLOCK1">
+				<item key="name" value="SCLK2"/>
+				<item key="select" value="false"/>
+				<item key="status" value="EXTERNAL"/>
+			</section>
+			<section name="CLOCK2">
+				<item key="name" value="GCCLKB0"/>
+				<item key="select" value="true"/>
+				<item key="status" value="INTERNAL"/>
+			</section>
+			<section name="CLOCK3">
+				<item key="name" value="ZCLK2"/>
+				<item key="select" value="false"/>
+				<item key="status" value="EXTERNAL"/>
+			</section>
+		</section>
+	</section>
+</section>

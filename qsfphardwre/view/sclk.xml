@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="ProtoWizard">
+	<item key="Message" value="2023/09/15 11:46:43 -------------------------&#x0A;Write GCCLKT1 FPGA-A server_info:set GCCLKT1 clock successfully!,100.00&#x0A;2023/09/15 11:46:44 -------------------------&#x0A;2023/09/15 12:21:30 -------------------------&#x0A;Write GCCLKT0 FPGA-A server_info:set GCCLKT0 clock successfully!,300.19&#x0A;Write GCCLKT1 FPGA-A server_info:set GCCLKT1 clock successfully!,100.00&#x0A;2023/09/15 12:21:35 -------------------------&#x0A;2023/09/15 14:29:06 -------------------------&#x0A;Write GCCLKT0 FPGA-A server_info:set GCCLKT0 clock successfully!,300.19&#x0A;Write GCCLKT1 FPGA-A server_info:set GCCLKT1 clock successfully!,100.00&#x0A;2023/09/15 14:29:10 -------------------------&#x0A;2023/09/18 14:14:48 -------------------------&#x0A;Write GCCLKT0 FPGA-A null&#x0A;Write GCCLKT1 FPGA-A null&#x0A;"/>
+	<section name="fpgaid0">
+		<item key="fpgaID" value="FPGA-A"/>
+		<section name="sclk">
+			<item key="show_sclk" value="enable"/>
+			<item key="number" value="2"/>
+			<section name="sclk0">
+				<item key="name" value="SCLK1"/>
+				<item key="frequence" value="20"/>
+				<item key="phase" value="0"/>
+				<item key="iostander" value="LVDS18"/>
+				<item key="pin" value="BY38/BY39"/>
+				<item key="bank" value="BANK65"/>
+				<item key="slr" value="SLR1"/>
+				<item key="dealy" value="1269.29PS"/>
+				<item key="region" value="X7Y6"/>
+				<item key="lock" value="false"/>
+				<item key="select" value="false"/>
+			</section>
+			<section name="sclk1">
+				<item key="name" value="SCLK2"/>
+				<item key="frequence" value="20"/>
+				<item key="phase" value="0"/>
+				<item key="iostander" value="LVDS18"/>
+				<item key="pin" value="BY44/CA44"/>
+				<item key="bank" value="BANK19"/>
+				<item key="slr" value="SLR0"/>
+				<item key="dealy" value="1269.29PS"/>
+				<item key="region" value="X0Y0"/>
+				<item key="lock" value="false"/>
+				<item key="select" value="false"/>
+			</section>
+		</section>
+	</section>
+</section>

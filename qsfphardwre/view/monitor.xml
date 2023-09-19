@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="ProtoWizard">
+	<section name="Monitor">
+		<item key="label" value="FPGA ID,V85-INT,V90-AVCC,1V2-AVTT,1V8-AUX,1V8-MGT,2V0-TOP,2V0-BOT,1V8-DEV,3V3-TOP,3V3-BOT,3V3-DEV,TEMP,FAN,FANM-L,FANM-R"/>
+		<item key="JFreeChart0" value="V85-INT,V90-AVCC,1V2-AVTT,1V8-AUX,1V8-MGT"/>
+		<item key="JFreeChart1" value="2V0-TOP,2V0-BOT,1V8-DEV,3V3-TOP,3V3-BOT,3V3-DEV"/>
+		<item key="exporttime" value="0"/>
+		<item key="exportpath" value=""/>
+		<item key="monitorid" value="0"/>
+	</section>
+</section>

@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="ProtoWizard">
+	<item key="Message" value=""/>
+	<section name="fpgaid0">
+		<item key="fpgaID" value="FPGA-A"/>
+		<section name="subscan">
+			<item key="number" value="36"/>
+			<section name="subscan0">
+				<item key="name" value="HSPI2-J10"/>
+				<item key="model" value=""/>
+				<item key="type" value=""/>
+				<item key="vendor" value=""/>
+				<item key="sn" value=""/>
+				<item key="vid" value=""/>
+				<item key="eid" value=""/>
+				<item key="vccio" value=""/>
+				<item key="vccion" value=""/>
+				<item key="select" value="false"/>
+			</section>
+			<section name="subscan1">
+				<item key="name" value="HSPI2-J11"/>
+				<item key="model" value=""/>
+				<item key="type" value=""/>
+				<item key="vendor" value=""/>
+				<item key="sn" value=""/>
+				<item key="vid" value=""/>
+				<item key="eid" value=""/>
+				<item key="vccio" value=""/>
+				<item key="vccion" value=""/>
+				<item key="select" value="false"/>
+			</section>
+			<section name="subscan2">
+				<item key="name" value="HSPI2-J12"/>
+				<item key="model" value=""/>
+				<item key="type" value=""/>
+				<item key="vendor" value=""/>
+				<item key="sn" value=""/>
+				<item key="vid" value=""/>
+				<item key="eid" value=""/>
+				<item key="vccio" value=""/>
+				<item key="vccion" value=""/>
+				<item key="select" value="false"/>
+			</section>
+			<section name="subscan3">
+				<item key="name" value="HSPI2-J13"/>
+				<item key="model" value=""/>
+				<item key="type" value=""/>
+				<item key="vendor" value=""/>
+				<item key="sn" value=""/>
+				<item key="vid" value=""/>
+				<item key="eid" value=""/>
+				<item key="vccio" value=""/>
+				<item key="vccion" value=""/>
+				<item key="select" value="false"/>
+			</section>
+			<section name="subscan4">
+				<item key="name" value="HSPI2-J14"/>
+				<item key="model" value=""/>
+				<item key="type" value=""/>
+				<item key="vendor" value=""/>
+				<item key="sn" value=""/>
+				<item key="vid" value=""/>
+				<item key="eid" value=""/>
+				<item key="vccio" value=""/>
+				<item key="vccion" value=""/>
+				<item key="select" value="false"/>
+			</section>
+			<section name="subscan5">
+				<item key="name" value="HSPI2-J15"/>
+				<item key="model" value=""/>
+				<item key="type" value=""/>
+				<item key="vendor" value=""/>
+				<item key="sn" value=""/>
+				<item key="vid" value=""/>
+				<item key="eid" value=""/>
+				<item key="vccio" value=""/>
+				<item key="vccion" value=""/>
+				<item key="select" value="false"/>
+			</section>
+			<section name="subscan6">
+				<item key="name" value="HSPI2-J16"/>
+				<item key="model" value=""/>
+				<item key="type" value=""/>
+				<item key="vendor" value=""/>
+				<item key="sn" value=""/>
+				<item key="vid" value=""/>
+				<item key="eid" value=""/>
+				<item key="vccio" value=""/>
+				<item key="vccion" value=""/>
+				<item key="select" value="false"/>
+			</section>
+			<section name="subscan7">
+				<item key="name" value="HSPI2-J17"/>
+				<item key="model" value=""/>
+				<item key="type" value=""/>
+				<item key="vendor" value=""/>
+				<item key="sn" value=""/>
+				<item key="vid" value=""/>
+				<item key="eid" value=""/>
+				<item key="vccio" value=""/>
+				<item key="vccion" value=""/>
+				<item key="select" value="false"/>
+			</section>
+			<section name="subscan8">
+				<item key="name" value="HSPI2-J18"/>
+				<item key="model" value=""/>
+				<item key="type" value=""/>
+				<item key="vendor" value=""/>
+				<item key="sn" value=""/>
+				<item key="vid" value=""/>
+				<item key="eid" value=""/>
+				<item key="vccio" value=""/>
+				<item key="vccion" value=""/>
+				<item key="select" value="false"/>
+			</section>
+			<section name="subscan9">
+				<item key="name" value="HSPI2-J19"/>
+				<item key="model" value=""/>
+				<item key="type" value=""/>
+				<item key="vendor" value=""/>
+				<item key="sn" value=""/>
+				<item key="vid" value=""/>
+				<item key="eid" value=""/>
+				<item key="vccio" value=""/>
+				<item key="vccion" value=""/>
+				<item key="select" value="false"/>
+			</section>
+			<section name="subscan10">
+				<item key="name" value="HSPI2-J20"/>
+				<item key="model" value=""/>
+				<item key="type" value=""/>
+				<item key="vendor" value=""/>
+				<item key="sn" value=""/>
+				<item key="vid" value=""/>
+				<item key="eid" value=""/>
+				<item key="vccio" value=""/>
+				<item key="vccion" value=""/>
+				<item key="select" value="false"/>
+			</section>
+			<section name="subscan11">
+				<item key="name" value="HSPI2-J21"/>
+				<item key="model" value=""/>
+				<item key="type" value=""/>
+				<item key="vendor" value=""/>
+				<item key="sn" value=""/>
+				<item key="vid" value=""/>
+				<item key="eid" value=""/>
+				<item key="vccio" value=""/>
+				<item key="vccion" value=""/>
+				<item key="select" value="false"/>
+			</section>
+			<section name="subscan12">
+				<item key="name" value="HSPI2-J22"/>
+				<item key="model" value=""/>
+				<item key="type" value=""/>
+				<item key="vendor" value=""/>
+				<item key="sn" value=""/>
+				<item key="vid" value=""/>
+				<item key="eid" value=""/>
+				<item key="vccio" value=""/>
+				<item key="vccion" value=""/>
+				<item key="select" value="false"/>
+			</section>
+			<section name="subscan13">
+				<item key="name" value="HSPI2-J23"/>
+				<item key="model" value=""/>
+				<item key="type" value=""/>
+				<item key="vendor" value=""/>
+				<item key="sn" value=""/>
+				<item key="vid" value=""/>
+				<item key="eid" value=""/>
+				<item key="vccio" value=""/>
+				<item key="vccion" value=""/>
+				<item key="select" value="false"/>
+			</section>
+			<section name="subscan14">
+				<item key="name" value="HSPI2-J14"/>
+				<item key="model" value=""/>
+				<item key="type" value=""/>
+				<item key="vendor" value=""/>
+				<item key="sn" value=""/>
+				<item key="vid" value=""/>
+				<item key="eid" value=""/>
+				<item key="vccio" value=""/>
+				<item key="vccion" value=""/>
+				<item key="select" value="false"/>
+			</section>
+			<section name="subscan15">
+				<item key="name" value="HSPI2-J25"/>
+				<item key="model" value=""/>
+				<item key="type" value=""/>
+				<item key="vendor" value=""/>
+				<item key="sn" value=""/>
+				<item key="vid" value=""/>
+				<item key="eid" value=""/>
+				<item key="vccio" value=""/>
+				<item key="vccion" value=""/>
+				<item key="select" value="false"/>
+			</section>
+			<section name="subscan16">
+				<item key="name" value="HSPI2-J26"/>
+				<item key="model" value=""/>
+				<item key="type" value=""/>
+				<item key="vendor" value=""/>
+				<item key="sn" value=""/>
+				<item key="vid" value=""/>
+				<item key="eid" value=""/>
+				<item key="vccio" value=""/>
+				<item key="vccion" value=""/>
+				<item key="select" value="false"/>
+			</section>
+			<section name="subscan17">
+				<item key="name" value="HSPI2-J27"/>
+				<item key="model" value=""/>
+				<item key="type" value=""/>
+				<item key="vendor" value=""/>
+				<item key="sn" value=""/>
+				<item key="vid" value=""/>
+				<item key="eid" value=""/>
+				<item key="vccio" value=""/>
+				<item key="vccion" value=""/>
+				<item key="select" value="false"/>
+			</section>
+			<section name="subscan18">
+				<item key="name" value="HSPI2-J28"/>
+				<item key="model" value=""/>
+				<item key="type" value=""/>
+				<item key="vendor" value=""/>
+				<item key="sn" value=""/>
+				<item key="vid" value=""/>
+				<item key="eid" value=""/>
+				<item key="vccio" value=""/>
+				<item key="vccion" value=""/>
+				<item key="select" value="false"/>
+			</section>
+			<section name="subscan19">
+				<item key="name" value="HSPI2-J29"/>
+				<item key="model" value=""/>
+				<item key="type" value=""/>
+				<item key="vendor" value=""/>
+				<item key="sn" value=""/>
+				<item key="vid" value=""/>
+				<item key="eid" value=""/>
+				<item key="vccio" value=""/>
+				<item key="vccion" value=""/>
+				<item key="select" value="false"/>
+			</section>
+			<section name="subscan20">
+				<item key="name" value="HSPI2-J30"/>
+				<item key="model" value=""/>
+				<item key="type" value=""/>
+				<item key="vendor" value=""/>
+				<item key="sn" value=""/>
+				<item key="vid" value=""/>
+				<item key="eid" value=""/>
+				<item key="vccio" value=""/>
+				<item key="vccion" value=""/>
+				<item key="select" value="false"/>
+			</section>
+			<section name="subscan21">
+				<item key="name" value="HSPI2-J39"/>
+				<item key="model" value=""/>
+				<item key="type" value=""/>
+				<item key="vendor" value=""/>
+				<item key="sn" value=""/>
+				<item key="vid" value=""/>
+				<item key="eid" value=""/>
+				<item key="vccio" value=""/>
+				<item key="vccion" value=""/>
+				<item key="select" value="false"/>
+			</section>
+			<section name="subscan22">
+				<item key="name" value="HSPI2-J40"/>
+				<item key="model" value=""/>
+				<item key="type" value=""/>
+				<item key="vendor" value=""/>
+				<item key="sn" value=""/>
+				<item key="vid" value=""/>
+				<item key="eid" value=""/>
+				<item key="vccio" value=""/>
+				<item key="vccion" value=""/>
+				<item key="select" value="false"/>
+			</section>
+			<section name="subscan23">
+				<item key="name" value="HSPI2-J49"/>
+				<item key="model" value=""/>
+				<item key="type" value=""/>
+				<item key="vendor" value=""/>
+				<item key="sn" value=""/>
+				<item key="vid" value=""/>
+				<item key="eid" value=""/>
+				<item key="vccio" value=""/>
+				<item key="vccion" value=""/>
+				<item key="select" value="false"/>
+			</section>
+			<section name="subscan24">
+				<item key="name" value="HSPI2-J50"/>
+				<item key="model" value=""/>
+				<item key="type" value=""/>
+				<item key="vendor" value=""/>
+				<item key="sn" value=""/>
+				<item key="vid" value=""/>
+				<item key="eid" value=""/>
+				<item key="vccio" value=""/>
+				<item key="vccion" value=""/>
+				<item key="select" value="false"/>
+			</section>
+			<section name="subscan25">
+				<item key="name" value="HSPI2-J51"/>
+				<item key="model" value=""/>
+				<item key="type" value=""/>
+				<item key="vendor" value=""/>
+				<item key="sn" value=""/>
+				<item key="vid" value=""/>
+				<item key="eid" value=""/>
+				<item key="vccio" value=""/>
+				<item key="vccion" value=""/>
+				<item key="select" value="false"/>
+			</section>
+			<section name="subscan26">
+				<item key="name" value="HSPI2-J52"/>
+				<item key="model" value=""/>
+				<item key="type" value=""/>
+				<item key="vendor" value=""/>
+				<item key="sn" value=""/>
+				<item key="vid" value=""/>
+				<item key="eid" value=""/>
+				<item key="vccio" value=""/>
+				<item key="vccion" value=""/>
+				<item key="select" value="false"/>
+			</section>
+			<section name="subscan27">
+				<item key="name" value="HSPI2-J53"/>
+				<item key="model" value=""/>
+				<item key="type" value=""/>
+				<item key="vendor" value=""/>
+				<item key="sn" value=""/>
+				<item key="vid" value=""/>
+				<item key="eid" value=""/>
+				<item key="vccio" value=""/>
+				<item key="vccion" value=""/>
+				<item key="select" value="false"/>
+			</section>
+			<section name="subscan28">
+				<item key="name" value="HSPI2-J60"/>
+				<item key="model" value=""/>
+				<item key="type" value=""/>
+				<item key="vendor" value=""/>
+				<item key="sn" value=""/>
+				<item key="vid" value=""/>
+				<item key="eid" value=""/>
+				<item key="vccio" value=""/>
+				<item key="vccion" value=""/>
+				<item key="select" value="false"/>
+			</section>
+			<section name="subscan29">
+				<item key="name" value="HSPI2-J61"/>
+				<item key="model" value=""/>
+				<item key="type" value=""/>
+				<item key="vendor" value=""/>
+				<item key="sn" value=""/>
+				<item key="vid" value=""/>
+				<item key="eid" value=""/>
+				<item key="vccio" value=""/>
+				<item key="vccion" value=""/>
+				<item key="select" value="false"/>
+			</section>
+			<section name="subscan30">
+				<item key="name" value="HSPI2-J62"/>
+				<item key="model" value=""/>
+				<item key="type" value=""/>
+				<item key="vendor" value=""/>
+				<item key="sn" value=""/>
+				<item key="vid" value=""/>
+				<item key="eid" value=""/>
+				<item key="vccio" value=""/>
+				<item key="vccion" value=""/>
+				<item key="select" value="false"/>
+			</section>
+			<section name="subscan31">
+				<item key="name" value="HSPI2-J63"/>
+				<item key="model" value=""/>
+				<item key="type" value=""/>
+				<item key="vendor" value=""/>
+				<item key="sn" value=""/>
+				<item key="vid" value=""/>
+				<item key="eid" value=""/>
+				<item key="vccio" value=""/>
+				<item key="vccion" value=""/>
+				<item key="select" value="false"/>
+			</section>
+			<section name="subscan32">
+				<item key="name" value="HSPI2-J101"/>
+				<item key="model" value=""/>
+				<item key="type" value=""/>
+				<item key="vendor" value=""/>
+				<item key="sn" value=""/>
+				<item key="vid" value=""/>
+				<item key="eid" value=""/>
+				<item key="vccio" value=""/>
+				<item key="vccion" value=""/>
+				<item key="select" value="false"/>
+			</section>
+			<section name="subscan33">
+				<item key="name" value="HSPI2-J102"/>
+				<item key="model" value=""/>
+				<item key="type" value=""/>
+				<item key="vendor" value=""/>
+				<item key="sn" value=""/>
+				<item key="vid" value=""/>
+				<item key="eid" value=""/>
+				<item key="vccio" value=""/>
+				<item key="vccion" value=""/>
+				<item key="select" value="false"/>
+			</section>
+			<section name="subscan34">
+				<item key="name" value="HSPI2-J201"/>
+				<item key="model" value=""/>
+				<item key="type" value=""/>
+				<item key="vendor" value=""/>
+				<item key="sn" value=""/>
+				<item key="vid" value=""/>
+				<item key="eid" value=""/>
+				<item key="vccio" value=""/>
+				<item key="vccion" value=""/>
+				<item key="select" value="false"/>
+			</section>
+			<section name="subscan35">
+				<item key="name" value="HSPI2-J202"/>
+				<item key="model" value=""/>
+				<item key="type" value=""/>
+				<item key="vendor" value=""/>
+				<item key="sn" value=""/>
+				<item key="vid" value=""/>
+				<item key="eid" value=""/>
+				<item key="vccio" value=""/>
+				<item key="vccion" value=""/>
+				<item key="select" value="false"/>
+			</section>
+		</section>
+	</section>
+</section>

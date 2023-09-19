@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="ProtoWizard">
+	<item key="Message" value=""/>
+	<section name="fpgaid0">
+		<item key="fpgaID" value="FPGA-A"/>
+		<section name="buffer">
+			<item key="number" value="5"/>
+			<section name="buffer0">
+				<item key="mode" value="PLL"/>
+				<item key="tooltip" value="si5338"/>
+				<item key="name" value="C1"/>
+				<item key="lock" value="false"/>
+				<item key="select" value="false"/>
+				<item key="clock" value="4"/>
+				<section name="clock0">
+					<item key="name" value="CT1"/>
+					<item key="tooltip" value="si5338"/>
+					<item key="frequence" value=""/>
+					<item key="phase" value=""/>
+					<item key="mode" value="PLL"/>
+					<item key="lock" value="false"/>
+					<item key="select" value="false"/>
+				</section>
+				<section name="clock1">
+					<item key="name" value="CT2"/>
+					<item key="tooltip" value="si5338"/>
+					<item key="frequence" value=""/>
+					<item key="phase" value=""/>
+					<item key="mode" value="PLL"/>
+					<item key="lock" value="false"/>
+					<item key="select" value="false"/>
+				</section>
+				<section name="clock2">
+					<item key="name" value="CB1"/>
+					<item key="tooltip" value="si5338"/>
+					<item key="frequence" value=""/>
+					<item key="phase" value=""/>
+					<item key="mode" value="PLL"/>
+					<item key="lock" value="false"/>
+					<item key="select" value="false"/>
+				</section>
+				<section name="clock3">
+					<item key="name" value="CB2"/>
+					<item key="tooltip" value="si5338"/>
+					<item key="frequence" value=""/>
+					<item key="phase" value=""/>
+					<item key="mode" value="PLL"/>
+					<item key="lock" value="false"/>
+					<item key="select" value="false"/>
+				</section>
+			</section>
+			<section name="buffer1">
+				<item key="mode" value="PLL"/>
+				<item key="tooltip" value="si5338"/>
+				<item key="name" value="T1"/>
+				<item key="lock" value="false"/>
+				<item key="select" value="false"/>
+				<item key="clock" value="2"/>
+				<section name="clock0">
+					<item key="name" value="T1"/>
+					<item key="tooltip" value="si53342"/>
+					<item key="frequence" value=""/>
+					<item key="phase" value=""/>
+					<item key="mode" value="PLL"/>
+					<item key="lock" value="false"/>
+					<item key="select" value="false"/>
+				</section>
+				<section name="clock1">
+					<item key="name" value="T2"/>
+					<item key="tooltip" value="si53342"/>
+					<item key="frequence" value=""/>
+					<item key="phase" value=""/>
+					<item key="mode" value="PLL"/>
+					<item key="lock" value="false"/>
+					<item key="select" value="false"/>
+				</section>
+			</section>
+			<section name="buffer2">
+				<item key="mode" value="PLL"/>
+				<item key="tooltip" value="si5338"/>
+				<item key="name" value="T2"/>
+				<item key="lock" value="false"/>
+				<item key="select" value="false"/>
+				<item key="clock" value="3"/>
+				<section name="clock0">
+					<item key="name" value="T3"/>
+					<item key="tooltip" value="si53342"/>
+					<item key="frequence" value=""/>
+					<item key="phase" value=""/>
+					<item key="mode" value="PLL"/>
+					<item key="lock" value="false"/>
+					<item key="select" value="false"/>
+				</section>
+				<section name="clock1">
+					<item key="name" value="T4"/>
+					<item key="tooltip" value="si53342"/>
+					<item key="frequence" value=""/>
+					<item key="phase" value=""/>
+					<item key="mode" value="PLL"/>
+					<item key="lock" value="false"/>
+					<item key="select" value="false"/>
+				</section>
+				<section name="clock2">
+					<item key="name" value="T5"/>
+					<item key="tooltip" value="si53342"/>
+					<item key="frequence" value=""/>
+					<item key="phase" value=""/>
+					<item key="mode" value="PLL"/>
+					<item key="lock" value="false"/>
+					<item key="select" value="false"/>
+				</section>
+			</section>
+			<section name="buffer3">
+				<item key="mode" value="PLL"/>
+				<item key="tooltip" value="si5338"/>
+				<item key="name" value="B2"/>
+				<item key="lock" value="false"/>
+				<item key="select" value="false"/>
+				<item key="clock" value="2"/>
+				<section name="clock0">
+					<item key="name" value="B1"/>
+					<item key="tooltip" value="si53342"/>
+					<item key="frequence" value=""/>
+					<item key="phase" value=""/>
+					<item key="mode" value="PLL"/>
+					<item key="lock" value="false"/>
+					<item key="select" value="false"/>
+				</section>
+				<section name="clock1">
+					<item key="name" value="B2"/>
+					<item key="tooltip" value="si53342"/>
+					<item key="frequence" value=""/>
+					<item key="phase" value=""/>
+					<item key="mode" value="PLL"/>
+					<item key="lock" value="false"/>
+					<item key="select" value="false"/>
+				</section>
+			</section>
+			<section name="buffer4">
+				<item key="mode" value="PLL"/>
+				<item key="tooltip" value="si5338"/>
+				<item key="name" value="B1"/>
+				<item key="lock" value="false"/>
+				<item key="select" value="false"/>
+				<item key="clock" value="3"/>
+				<section name="clock0">
+					<item key="name" value="B3"/>
+					<item key="tooltip" value="si53342"/>
+					<item key="frequence" value=""/>
+					<item key="phase" value=""/>
+					<item key="mode" value="PLL"/>
+					<item key="lock" value="false"/>
+					<item key="select" value="false"/>
+				</section>
+				<section name="clock1">
+					<item key="name" value="B4"/>
+					<item key="tooltip" value="si53342"/>
+					<item key="frequence" value=""/>
+					<item key="phase" value=""/>
+					<item key="mode" value="PLL"/>
+					<item key="lock" value="false"/>
+					<item key="select" value="false"/>
+				</section>
+				<section name="clock2">
+					<item key="name" value="B5"/>
+					<item key="tooltip" value="si53342"/>
+					<item key="frequence" value=""/>
+					<item key="phase" value=""/>
+					<item key="mode" value="PLL"/>
+					<item key="lock" value="false"/>
+					<item key="select" value="false"/>
+				</section>
+			</section>
+		</section>
+	</section>
+</section>

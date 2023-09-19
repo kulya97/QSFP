@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="ProtoWizard">
+	<item key="Message" value="2023/09/15 11:47:08 -------------------------&#x0A;Program FPGA-A E:\qsfp\Aurora6466BIP\GTY_A6466IP\aurora_64b66b_0_ex\aurora_64b66b_0_ex.runs\impl_1\Top_Module.bit&#x0A;server_info:operate successfully;NONE&#x0A;FPGA-A done light is on &#x0A;2023/09/15 11:47:18 -------------------------&#x0A;2023/09/15 17:28:58 -------------------------&#x0A;Reset FPGA-A&#x0A;server_info:operate successfully&#x0A;2023/09/15 17:28:58 -------------------------&#x0A;2023/09/15 17:29:02 -------------------------&#x0A;Reset FPGA-A&#x0A;server_info:operate successfully&#x0A;2023/09/15 17:29:02 -------------------------&#x0A;2023/09/15 17:29:05 -------------------------&#x0A;Reset FPGA-A&#x0A;server_info:operate successfully&#x0A;2023/09/15 17:29:05 -------------------------&#x0A;2023/09/19 09:19:12 -------------------------&#x0A;Program FPGA-A E:\qsfp\Aurora6466BIP\GTY_A6466IP\aurora_64b66b_0_ex\aurora_64b66b_0_ex.runs\impl_1\Top_Module.bit&#x0A;server_info:operate successfully;NONE&#x0A;FPGA-A done light is on &#x0A;2023/09/19 09:19:22 -------------------------&#x0A;"/>
+	<section name="fpgaid0">
+		<item key="fpgaID" value="FPGA-A"/>
+		<section name="bitfile0">
+			<item key="fpgaBitname" value="Top_Module.bit"/>
+			<item key="fpgaBitpath" value="E:\qsfp\Aurora6466BIP\GTY_A6466IP\aurora_64b66b_0_ex\aurora_64b66b_0_ex.runs\impl_1"/>
+			<item key="fpgaBitorder" value="1"/>
+			<item key="fpgaBitmd5" value=""/>
+			<item key="fpgaselect" value="false"/>
+			<item key="fpgabitlock" value="false"/>
+		</section>
+		<section name="bitfile1">
+			<item key="fpgaBitname" value="Top_Module.bit"/>
+			<item key="fpgaBitpath" value="E:\qsfp\Aurora6466BIP\GTY_A6466IP\aurora_64b66b_0_ex\aurora_64b66b_0_ex.runs\impl_1"/>
+			<item key="fpgaBitorder" value="1"/>
+			<item key="fpgaBitmd5" value=""/>
+			<item key="fpgaselect" value="true"/>
+			<item key="fpgabitlock" value="false"/>
+		</section>
+		<section name="bitfile2">
+			<item key="fpgaBitname" value=""/>
+			<item key="fpgaBitpath" value=""/>
+			<item key="fpgaBitorder" value="1"/>
+			<item key="fpgaBitmd5" value=""/>
+			<item key="fpgaselect" value="false"/>
+			<item key="fpgabitlock" value="false"/>
+		</section>
+		<section name="bitfile3">
+			<item key="fpgaBitname" value=""/>
+			<item key="fpgaBitpath" value=""/>
+			<item key="fpgaBitorder" value="1"/>
+			<item key="fpgaBitmd5" value=""/>
+			<item key="fpgaselect" value="false"/>
+			<item key="fpgabitlock" value="false"/>
+		</section>
+		<section name="bitfile4">
+			<item key="fpgaBitname" value=""/>
+			<item key="fpgaBitpath" value=""/>
+			<item key="fpgaBitorder" value="1"/>
+			<item key="fpgaBitmd5" value=""/>
+			<item key="fpgaselect" value="false"/>
+			<item key="fpgabitlock" value="false"/>
+		</section>
+	</section>
+</section>

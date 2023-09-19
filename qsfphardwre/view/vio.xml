@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="ProtoWizard">
+	<item key="Message" value="2023/09/15 17:29:23 -------------------------&#x0A;SET FPGA-A TOP,0&#x0A;server_info:operate successfully&#x0A;FPGA-A Current Drst status:&#x0A;TOP: 0&#x0A;BOT: 1&#x0A;2023/09/15 17:29:24 -------------------------&#x0A;"/>
+	<section name="fpgaid0">
+		<item key="fpgaID" value="FPGA-A"/>
+		<section name="vio">
+			<item key="number" value="2"/>
+			<section name="vio0">
+				<item key="namenum" value="VIO0"/>
+				<item key="mode" value="OUTPUT"/>
+				<item key="value" value="1"/>
+				<item key="pin" value="BJ27"/>
+				<item key="bank" value="BANK62"/>
+				<item key="slr" value="SLR0"/>
+				<item key="select" value="true"/>
+			</section>
+			<section name="vio1">
+				<item key="namenum" value="VIO1"/>
+				<item key="mode" value="OUTPUT"/>
+				<item key="value" value="1"/>
+				<item key="pin" value="CB29"/>
+				<item key="bank" value="BANK63"/>
+				<item key="slr" value="SLR0"/>
+				<item key="select" value="true"/>
+			</section>
+		</section>
+	</section>
+</section>

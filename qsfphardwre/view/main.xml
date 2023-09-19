@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="ProtoWizard">
+	<section name="machine">
+		<item key="machineType" value="VeriTiger-V19P"/>
+		<item key="machineNumber" value="1"/>
+		<item key="fpgaNumber" value="1"/>
+		<item key="ip" value="192.168.0.10"/>
+	</section>
+	<section name="suitgenerater">
+		<item key="suitName" value=""/>
+		<item key="suitPath" value=""/>
+		<item key="suitDes" value=""/>
+	</section>
+	<section name="fpgaid0">
+		<item key="fpgaID" value="FPGA-A"/>
+		<item key="machineid" value="1"/>
+		<item key="fpgaDes" value=""/>
+	</section>
+</section>

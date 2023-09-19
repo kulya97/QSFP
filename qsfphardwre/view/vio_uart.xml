@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="ProtoWizard">
+	<item key="Message" value=""/>
+	<section name="fpgaid0">
+		<item key="fpgaID" value="FPGA-A"/>
+		<section name="vio_uart">
+			<item key="show_item" value="disenable"/>
+			<item key="title" value="VIO,UART"/>
+			<item key="item" value="2"/>
+			<section name="item0">
+				<item key="name" value="VIO"/>
+				<item key="select" value="true"/>
+			</section>
+			<section name="item1">
+				<item key="name" value="UART"/>
+				<item key="select" value="false"/>
+			</section>
+		</section>
+	</section>
+</section>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="ProtoWizard">
+	<item key="Message" value=""/>
+	<section name="fpgaid0">
+		<item key="fpgaID" value="FPGA-A"/>
+		<section name="mgt_clk">
+			<item key="mgt_clk" value="HSPI2-J101;HSPI2-J202"/>
+			<section name="HSPI2-J101">
+				<item key="INTERNAL" value="INTERNAL"/>
+				<item key="INTERNAL_STATE" value="true"/>
+				<item key="EXTERNAL" value="EXTERNAL"/>
+				<item key="EXTERNAL_STATE" value="false"/>
+			</section>
+			<section name="HSPI2-J202">
+				<item key="INTERNAL" value="INTERNAL"/>
+				<item key="INTERNAL_STATE" value="true"/>
+				<item key="EXTERNAL" value="EXTERNAL"/>
+				<item key="EXTERNAL_STATE" value="false"/>
+			</section>
+		</section>
+	</section>
+</section>

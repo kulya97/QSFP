@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="ProtoWizard">
+	<item key="Message" value="2023/09/15 11:46:43 -------------------------&#x0A;Write GCCLKT1 FPGA-A server_info:set GCCLKT1 clock successfully!,100.00&#x0A;2023/09/15 11:46:44 -------------------------&#x0A;2023/09/15 12:21:30 -------------------------&#x0A;Write GCCLKT0 FPGA-A server_info:set GCCLKT0 clock successfully!,300.19&#x0A;Write GCCLKT1 FPGA-A server_info:set GCCLKT1 clock successfully!,100.00&#x0A;2023/09/15 12:21:35 -------------------------&#x0A;2023/09/15 14:29:06 -------------------------&#x0A;Write GCCLKT0 FPGA-A server_info:set GCCLKT0 clock successfully!,300.19&#x0A;Write GCCLKT1 FPGA-A server_info:set GCCLKT1 clock successfully!,100.00&#x0A;2023/09/15 14:29:10 -------------------------&#x0A;2023/09/18 14:14:48 -------------------------&#x0A;Write GCCLKT0 FPGA-A null&#x0A;Write GCCLKT1 FPGA-A null&#x0A;2023/09/18 16:25:36 -------------------------&#x0A;Write GCCLKT0 FPGA-A server_info:set GCCLKT0 clock successfully!,300.19&#x0A;Write GCCLKT1 FPGA-A server_info:set GCCLKT1 clock successfully!,100.00&#x0A;2023/09/18 16:25:41 -------------------------&#x0A;2023/09/18 16:26:16 -------------------------&#x0A;Write GCCLKT0 FPGA-A server_info:set GCCLKT0 clock successfully!,300.19&#x0A;Write GCCLKT1 FPGA-A server_info:set GCCLKT1 clock successfully!,100.00&#x0A;2023/09/18 16:26:21 -------------------------&#x0A;2023/09/18 16:49:37 -------------------------&#x0A;Write GCCLKT0 FPGA-A server_info:set GCCLKT0 clock successfully!,300.19&#x0A;Write GCCLKT1 FPGA-A server_info:set GCCLKT1 clock successfully!,50.00&#x0A;Write GCCLKT2 FPGA-A server_info:set GCCLKT2 clock successfully!,50.00&#x0A;2023/09/18 16:49:44 -------------------------&#x0A;2023/09/18 16:54:52 -------------------------&#x0A;Write GCCLKT0 FPGA-A server_info:set GCCLKT0 clock successfully!,300.19&#x0A;Write GCCLKT1 FPGA-A server_info:set GCCLKT1 clock successfully!,50.00&#x0A;Write GCCLKT2 FPGA-A server_info:set GCCLKT2 clock successfully!,50.00&#x0A;2023/09/18 16:54:59 -------------------------&#x0A;2023/09/18 17:21:12 -------------------------&#x0A;Write GCCLKT0 FPGA-A server_info:set GCCLKT0 clock successfully!,300.19&#x0A;Write GCCLKT1 FPGA-A server_info:set GCCLKT1 clock successfully!,50.00&#x0A;Write GCCLKT2 FPGA-A server_info:set GCCLKT2 clock successfully!,50.00&#x0A;2023/09/18 17:21:19 -------------------------&#x0A;2023/09/18 17:38:31 -------------------------&#x0A;Write GCCLKT1 FPGA-A server_info:set GCCLKT1 clock successfully!,100.00&#x0A;2023/09/18 17:38:33 -------------------------&#x0A;2023/09/19 08:38:03 -------------------------&#x0A;Write GCCLKT0 FPGA-A server_info:set GCCLKT0 clock successfully!,300.19&#x0A;Write GCCLKT1 FPGA-A server_info:set GCCLKT1 clock successfully!,50.00&#x0A;Write GCCLKT2 FPGA-A server_info:set GCCLKT2 clock successfully!,50.00&#x0A;2023/09/19 08:38:06 -------------------------&#x0A;2023/09/19 08:39:51 -------------------------&#x0A;Write GCCLKT0 FPGA-A server_info:set GCCLKT0 clock successfully!,300.19&#x0A;Write GCCLKT1 FPGA-A server_info:set GCCLKT1 clock successfully!,50.00&#x0A;Write GCCLKT2 FPGA-A server_info:set GCCLKT2 clock successfully!,50.00&#x0A;2023/09/19 08:39:58 -------------------------&#x0A;2023/09/19 09:32:18 -------------------------&#x0A;Write GCCLKT1 FPGA-A server_info:set GCCLKT1 clock successfully!,250.00&#x0A;2023/09/19 09:32:20 -------------------------&#x0A;2023/09/19 11:40:01 -------------------------&#x0A;Write GCCLKT1 FPGA-A server_info:set GCCLKT1 clock successfully!,250.00&#x0A;2023/09/19 11:40:02 -------------------------&#x0A;2023/09/19 12:33:30 -------------------------&#x0A;Write GCCLKT1 FPGA-A server_info:set GCCLKT1 clock successfully!,100.00&#x0A;Write GCCLKT2 FPGA-A server_info:set GCCLKT2 clock successfully!,100.00&#x0A;2023/09/19 12:33:35 -------------------------&#x0A;"/>
+	<section name="pclk">
+		<item key="number" value="8"/>
+		<section name="pclk0">
+			<item key="name" value="PCLKL1"/>
+			<item key="frequence" value="100"/>
+			<item key="phase" value="0"/>
+			<item key="iostander" value="LVDS18"/>
+			<item key="lock" value="false"/>
+			<item key="select" value="false"/>
+		</section>
+		<section name="pclk1">
+			<item key="name" value="PCLKL2"/>
+			<item key="frequence" value="100"/>
+			<item key="phase" value="0"/>
+			<item key="iostander" value="LVDS18"/>
+			<item key="lock" value="false"/>
+			<item key="select" value="false"/>
+		</section>
+		<section name="pclk2">
+			<item key="name" value="PCLKL3"/>
+			<item key="frequence" value="100"/>
+			<item key="phase" value="0"/>
+			<item key="iostander" value="LVDS18"/>
+			<item key="lock" value="false"/>
+			<item key="select" value="false"/>
+		</section>
+		<section name="pclk3">
+			<item key="name" value="PCLKL4"/>
+			<item key="frequence" value="100"/>
+			<item key="phase" value="0"/>
+			<item key="iostander" value="LVDS18"/>
+			<item key="lock" value="false"/>
+			<item key="select" value="false"/>
+		</section>
+		<section name="pclk4">
+			<item key="name" value="PCLKR1"/>
+			<item key="frequence" value="100"/>
+			<item key="phase" value="0"/>
+			<item key="iostander" value="LVDS18"/>
+			<item key="lock" value="false"/>
+			<item key="select" value="false"/>
+		</section>
+		<section name="pclk5">
+			<item key="name" value="PCLKR2"/>
+			<item key="frequence" value="100"/>
+			<item key="phase" value="0"/>
+			<item key="iostander" value="LVDS18"/>
+			<item key="lock" value="false"/>
+			<item key="select" value="false"/>
+		</section>
+		<section name="pclk6">
+			<item key="name" value="PCLKR3"/>
+			<item key="frequence" value="100"/>
+			<item key="phase" value="0"/>
+			<item key="iostander" value="LVDS18"/>
+			<item key="lock" value="false"/>
+			<item key="select" value="false"/>
+		</section>
+		<section name="pclk7">
+			<item key="name" value="PCLKR4"/>
+			<item key="frequence" value="100"/>
+			<item key="phase" value="0"/>
+			<item key="iostander" value="LVDS18"/>
+			<item key="lock" value="false"/>
+			<item key="select" value="false"/>
+		</section>
+	</section>
+	<section name="fpgaid0">
+		<item key="fpgaID" value="FPGA-A"/>
+		<section name="gclk">
+			<item key="number" value="10"/>
+			<section name="gclk0">
+				<item key="name" value="GCCLKT0"/>
+				<item key="frequence" value="300"/>
+				<item key="phase" value="0"/>
+				<item key="iostander" value="LVDS18"/>
+				<item key="pin" value="BY44/CA44"/>
+				<item key="bank" value="BANK19"/>
+				<item key="slr" value="SLR0"/>
+				<item key="dealy" value="1269.29PS"/>
+				<item key="region" value="X0Y0"/>
+				<item key="lock" value="false"/>
+				<item key="select" value="false"/>
+			</section>
+			<section name="gclk1">
+				<item key="name" value="GCCLKT1"/>
+				<item key="frequence" value="100"/>
+				<item key="phase" value="0"/>
+				<item key="iostander" value="LVDS18"/>
+				<item key="pin" value="BN55/BP55"/>
+				<item key="bank" value="BANK23"/>
+				<item key="slr" value="SLR0"/>
+				<item key="dealy" value="1506.24PS"/>
+				<item key="region" value="X0Y4"/>
+				<item key="lock" value="false"/>
+				<item key="select" value="true"/>
+			</section>
+			<section name="gclk2">
+				<item key="name" value="GCCLKT2"/>
+				<item key="frequence" value="100"/>
+				<item key="phase" value="0"/>
+				<item key="iostander" value="LVDS18"/>
+				<item key="pin" value="BC61/BD61"/>
+				<item key="bank" value="BANK25"/>
+				<item key="slr" value="SLR1"/>
+				<item key="dealy" value="1756.16PS"/>
+				<item key="region" value="X0Y6"/>
+				<item key="lock" value="false"/>
+				<item key="select" value="true"/>
+			</section>
+			<section name="gclk3">
+				<item key="name" value="GCCLKT3"/>
+				<item key="frequence" value="100"/>
+				<item key="phase" value="0"/>
+				<item key="iostander" value="LVDS18"/>
+				<item key="pin" value="BN26/BP26"/>
+				<item key="bank" value="BANK62"/>
+				<item key="slr" value="SLR0"/>
+				<item key="dealy" value="1390.24PS"/>
+				<item key="region" value="X7Y3"/>
+				<item key="lock" value="false"/>
+				<item key="select" value="false"/>
+			</section>
+			<section name="gclk4">
+				<item key="name" value="GCCLKT4"/>
+				<item key="frequence" value="71.02"/>
+				<item key="phase" value="0"/>
+				<item key="iostander" value="LVDS18"/>
+				<item key="pin" value="G36/F36"/>
+				<item key="bank" value="BANK69"/>
+				<item key="slr" value="SLR2"/>
+				<item key="dealy" value="2131.06PS"/>
+				<item key="region" value="X7Y10"/>
+				<item key="lock" value="false"/>
+				<item key="select" value="false"/>
+			</section>
+			<section name="gclk5">
+				<item key="name" value="GCCLKB0"/>
+				<item key="frequence" value="100"/>
+				<item key="phase" value="0"/>
+				<item key="iostander" value="LVDS18"/>
+				<item key="pin" value="E20/D20"/>
+				<item key="bank" value="BANK74"/>
+				<item key="slr" value="SLR3"/>
+				<item key="dealy" value="1514.39PS"/>
+				<item key="region" value="X7Y15"/>
+				<item key="lock" value="false"/>
+				<item key="select" value="false"/>
+			</section>
+			<section name="gclk6">
+				<item key="name" value="GCCLKB1"/>
+				<item key="frequence" value="100"/>
+				<item key="phase" value="0"/>
+				<item key="iostander" value="LVDS18"/>
+				<item key="pin" value="D45/D46"/>
+				<item key="bank" value="BANK37"/>
+				<item key="slr" value="SLR3"/>
+				<item key="dealy" value="1279.69PS"/>
+				<item key="region" value="X0Y18"/>
+				<item key="lock" value="false"/>
+				<item key="select" value="false"/>
+			</section>
+			<section name="gclk7">
+				<item key="name" value="GCCLKB2"/>
+				<item key="frequence" value="100"/>
+				<item key="phase" value="0"/>
+				<item key="iostander" value="LVDS18"/>
+				<item key="pin" value="J60/J61"/>
+				<item key="bank" value="BANK34"/>
+				<item key="slr" value="SLR3"/>
+				<item key="dealy" value="1725.90PS"/>
+				<item key="region" value="X0Y15"/>
+				<item key="lock" value="false"/>
+				<item key="select" value="false"/>
+			</section>
+			<section name="gclk8">
+				<item key="name" value="GCCLKB3"/>
+				<item key="frequence" value="100"/>
+				<item key="phase" value="0"/>
+				<item key="iostander" value="LVDS18"/>
+				<item key="pin" value="F32/E32"/>
+				<item key="bank" value="BANK71"/>
+				<item key="slr" value="SLR2"/>
+				<item key="dealy" value="1357.59PS"/>
+				<item key="region" value="X7Y12"/>
+				<item key="lock" value="false"/>
+				<item key="select" value="false"/>
+			</section>
+			<section name="gclk9">
+				<item key="name" value="GCCLKB4"/>
+				<item key="frequence" value="71.02"/>
+				<item key="phase" value="0"/>
+				<item key="iostander" value="LVDS18"/>
+				<item key="pin" value="CA36/CA37"/>
+				<item key="bank" value="BANK65"/>
+				<item key="slr" value="SLR1"/>
+				<item key="dealy" value="2131.34PS"/>
+				<item key="region" value="X7Y6"/>
+				<item key="lock" value="false"/>
+				<item key="select" value="false"/>
+			</section>
+		</section>
+	</section>
+</section>

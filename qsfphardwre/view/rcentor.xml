@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="ProtoWizard">
+	<section name="RCentor">
+		<item key="Message" value="2023/09/15 11:46:05 -------------------------&#x0A;Please enter the correct IP address!&#x0A;2023/09/15 11:46:06 -------------------------&#x0A;2023/09/15 11:46:07 -------------------------&#x0A;Please enter the correct IP address!&#x0A;2023/09/15 11:46:08 -------------------------&#x0A;2023/09/15 11:46:14 -------------------------&#x0A;connect ip 192.168.0.10&#x0A;2023/09/15 11:46:14 -------------------------&#x0A;2023/09/15 11:46:15 -------------------------&#x0A;connect ip 192.168.0.10&#x0A;2023/09/15 11:46:15 -------------------------&#x0A;2023/09/15 11:46:18 -------------------------&#x0A;Please select free register resource&#x0A;2023/09/15 11:46:18 -------------------------&#x0A;2023/09/15 11:46:24 -------------------------&#x0A;sigin...&#x0A;server_info:resource sigin successfully&#x0A;2023/09/15 11:46:27 -------------------------&#x0A;2023/09/18 14:15:12 -------------------------&#x0A;sigin...&#x0A;server_info:resource sigin successfully&#x0A;2023/09/18 14:15:15 -------------------------&#x0A;2023/09/18 16:25:19 -------------------------&#x0A;connect ip 192.168.0.10&#x0A;2023/09/18 16:25:19 -------------------------&#x0A;2023/09/18 16:25:26 -------------------------&#x0A;sigin...&#x0A;server_info:resource sigin successfully&#x0A;2023/09/18 16:25:29 -------------------------&#x0A;2023/09/18 16:54:41 -------------------------&#x0A;connect ip 192.168.0.10&#x0A;2023/09/18 16:54:42 -------------------------&#x0A;2023/09/19 08:37:54 -------------------------&#x0A;sigin...&#x0A;server_info:resource sigin successfully&#x0A;2023/09/19 08:37:57 -------------------------&#x0A;2023/09/19 11:39:34 -------------------------&#x0A;Please select sigin resource first&#x0A;2023/09/19 11:39:34 -------------------------&#x0A;2023/09/19 11:39:46 -------------------------&#x0A;connect ip 192.168.0.10&#x0A;2023/09/19 11:39:46 -------------------------&#x0A;2023/09/19 11:39:49 -------------------------&#x0A;Please select sigin resource first&#x0A;2023/09/19 11:39:49 -------------------------&#x0A;"/>
+		<item key="connectlist" value="192.168.0.10,VeriTiger-V19P-A13,FPGA-A,04BA5093,192.168.0.2,54092,V19PTEST00001,0,0,0,1,479,0,121,0,999999,954178847,0,4181"/>
+		<item key="connectip" value="192.168.0.10"/>
+		<item key="registeraccount" value="V19PTEST00001"/>
+		<item key="registerpassword" value="123456"/>
+		<item key="autosigin" value="true"/>
+		<item key="siginflag" value="true"/>
+		<item key="lockfpga" value="false"/>
+		<item key="lockclock" value="false"/>
+		<item key="lockvoltage" value="false"/>
+		<item key="locksdreconfig" value="false"/>
+		<item key="lockselftest" value="false"/>
+		<item key="lockmpower" value="false"/>
+	</section>
+</section>

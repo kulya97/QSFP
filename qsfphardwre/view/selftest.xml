@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="ProtoWizard">
+	<item key="Message" value=""/>
+	<section name="gpio">
+		<item key="number" value="32"/>
+		<section name="gpio0">
+			<item key="name" value="HSPI2-J10"/>
+			<item key="bank" value="BANK77"/>
+			<item key="slr" value="SLR3"/>
+			<item key="type" value="HP"/>
+			<item key="select" value="false"/>
+		</section>
+		<section name="gpio1">
+			<item key="name" value="HSPI2-J11"/>
+			<item key="bank" value="BANK76"/>
+			<item key="slr" value="SLR3"/>
+			<item key="type" value="HP"/>
+			<item key="select" value="false"/>
+		</section>
+		<section name="gpio2">
+			<item key="name" value="HSPI2-J12"/>
+			<item key="bank" value="BANK75"/>
+			<item key="slr" value="SLR3"/>
+			<item key="type" value="HP"/>
+			<item key="select" value="false"/>
+		</section>
+		<section name="gpio3">
+			<item key="name" value="HSPI2-J13"/>
+			<item key="bank" value="BANK74"/>
+			<item key="slr" value="SLR3"/>
+			<item key="type" value="HP"/>
+			<item key="select" value="false"/>
+		</section>
+		<section name="gpio4">
+			<item key="name" value="HSPI2-J14"/>
+			<item key="bank" value="BANK38"/>
+			<item key="slr" value="SLR3"/>
+			<item key="type" value="HP"/>
+			<item key="select" value="false"/>
+		</section>
+		<section name="gpio5">
+			<item key="name" value="HSPI2-J15"/>
+			<item key="bank" value="BANK37"/>
+			<item key="slr" value="SLR3"/>
+			<item key="type" value="HP"/>
+			<item key="select" value="false"/>
+		</section>
+		<section name="gpio6">
+			<item key="name" value="HSPI2-J16"/>
+			<item key="bank" value="BANK36"/>
+			<item key="slr" value="SLR3"/>
+			<item key="type" value="HP"/>
+			<item key="select" value="false"/>
+		</section>
+		<section name="gpio7">
+			<item key="name" value="HSPI2-J17"/>
+			<item key="bank" value="BANK35"/>
+			<item key="slr" value="SLR3"/>
+			<item key="type" value="HP"/>
+			<item key="select" value="false"/>
+		</section>
+		<section name="gpio8">
+			<item key="name" value="HSPI2-J18"/>
+			<item key="bank" value="BANK34"/>
+			<item key="slr" value="SLR3"/>
+			<item key="type" value="HP"/>
+			<item key="select" value="false"/>
+		</section>
+		<section name="gpio9">
+			<item key="name" value="HSPI2-J19"/>
+			<item key="bank" value="BANK33"/>
+			<item key="slr" value="SLR2"/>
+			<item key="type" value="HP"/>
+			<item key="select" value="false"/>
+		</section>
+		<section name="gpio10">
+			<item key="name" value="HSPI2-J20"/>
+			<item key="bank" value="BANK59"/>
+			<item key="slr" value="SLR0"/>
+			<item key="type" value="HP"/>
+			<item key="select" value="false"/>
+		</section>
+		<section name="gpio11">
+			<item key="name" value="HSPI2-J21"/>
+			<item key="bank" value="BANK64"/>
+			<item key="slr" value="SLR1"/>
+			<item key="type" value="HP"/>
+			<item key="select" value="false"/>
+		</section>
+		<section name="gpio12">
+			<item key="name" value="HSPI2-J22"/>
+			<item key="bank" value="BANK20"/>
+			<item key="slr" value="SLR0"/>
+			<item key="type" value="HP"/>
+			<item key="select" value="false"/>
+		</section>
+		<section name="gpio13">
+			<item key="name" value="HSPI2-J23"/>
+			<item key="bank" value="BANK19"/>
+			<item key="slr" value="SLR0"/>
+			<item key="type" value="HP"/>
+			<item key="select" value="false"/>
+		</section>
+		<section name="gpio14">
+			<item key="name" value="HSPI2-J24"/>
+			<item key="bank" value="BANK21"/>
+			<item key="slr" value="SLR0"/>
+			<item key="type" value="HP"/>
+			<item key="select" value="false"/>
+		</section>
+		<section name="gpio15">
+			<item key="name" value="HSPI2-J25"/>
+			<item key="bank" value="BANK23"/>
+			<item key="slr" value="SLR0"/>
+			<item key="type" value="HP"/>
+			<item key="select" value="false"/>
+		</section>
+		<section name="gpio16">
+			<item key="name" value="HSPI2-J26"/>
+			<item key="bank" value="BANK22"/>
+			<item key="slr" value="SLR0"/>
+			<item key="type" value="HP"/>
+			<item key="select" value="false"/>
+		</section>
+		<section name="gpio17">
+			<item key="name" value="HSPI2-J27"/>
+			<item key="bank" value="BANK25"/>
+			<item key="slr" value="SLR1"/>
+			<item key="type" value="HP"/>
+			<item key="select" value="false"/>
+		</section>
+		<section name="gpio18">
+			<item key="name" value="HSPI2-J28"/>
+			<item key="bank" value="BANK24"/>
+			<item key="slr" value="SLR1"/>
+			<item key="type" value="HP"/>
+			<item key="select" value="false"/>
+		</section>
+		<section name="gpio19">
+			<item key="name" value="HSPI2-J29"/>
+			<item key="bank" value="BANK26"/>
+			<item key="slr" value="SLR1"/>
+			<item key="type" value="HP"/>
+			<item key="select" value="false"/>
+		</section>
+		<section name="gpio20">
+			<item key="name" value="HSPI2-J30"/>
+			<item key="bank" value="BANK78"/>
+			<item key="slr" value="SLR3"/>
+			<item key="type" value="HP"/>
+			<item key="select" value="false"/>
+		</section>
+		<section name="gpio21">
+			<item key="name" value="HSPI2-J39"/>
+			<item key="bank" value="BANK32"/>
+			<item key="slr" value="SLR2"/>
+			<item key="type" value="HP"/>
+			<item key="select" value="false"/>
+		</section>
+		<section name="gpio22">
+			<item key="name" value="HSPI2-J40"/>
+			<item key="bank" value="BANK60"/>
+			<item key="slr" value="SLR0"/>
+			<item key="type" value="HP"/>
+			<item key="select" value="false"/>
+		</section>
+		<section name="gpio23">
+			<item key="name" value="HSPI2-J49"/>
+			<item key="bank" value="BANK27"/>
+			<item key="slr" value="SLR1"/>
+			<item key="type" value="HP"/>
+			<item key="select" value="false"/>
+		</section>
+		<section name="gpio24">
+			<item key="name" value="HSPI2-J50"/>
+			<item key="bank" value="BANK93/98"/>
+			<item key="slr" value="SLR3/2"/>
+			<item key="type" value="HD"/>
+			<item key="select" value="false"/>
+		</section>
+		<section name="gpio25">
+			<item key="name" value="HSPI2-J51"/>
+			<item key="bank" value="BANK73"/>
+			<item key="slr" value="SLR2"/>
+			<item key="type" value="HP"/>
+			<item key="select" value="false"/>
+		</section>
+		<section name="gpio26">
+			<item key="name" value="HSPI2-J52"/>
+			<item key="bank" value="BANK31"/>
+			<item key="slr" value="SLR2"/>
+			<item key="type" value="HP"/>
+			<item key="select" value="false"/>
+		</section>
+		<section name="gpio27">
+			<item key="name" value="HSPI2-J53"/>
+			<item key="bank" value="BANK30"/>
+			<item key="slr" value="SLR2"/>
+			<item key="type" value="HP"/>
+			<item key="select" value="false"/>
+		</section>
+		<section name="gpio28">
+			<item key="name" value="HSPI2-J60"/>
+			<item key="bank" value="BANK88/83"/>
+			<item key="slr" value="SLR1/0"/>
+			<item key="type" value="HD"/>
+			<item key="select" value="false"/>
+		</section>
+		<section name="gpio29">
+			<item key="name" value="HSPI2-J61"/>
+			<item key="bank" value="BANK66"/>
+			<item key="slr" value="SLR1"/>
+			<item key="type" value="HP"/>
+			<item key="select" value="false"/>
+		</section>
+		<section name="gpio30">
+			<item key="name" value="HSPI2-J62"/>
+			<item key="bank" value="BANK28"/>
+			<item key="slr" value="SLR1"/>
+			<item key="type" value="HP"/>
+			<item key="select" value="false"/>
+		</section>
+		<section name="gpio31">
+			<item key="name" value="HSPI2-J63"/>
+			<item key="bank" value="BANK29"/>
+			<item key="slr" value="SLR2"/>
+			<item key="type" value="HP"/>
+			<item key="select" value="false"/>
+		</section>
+	</section>
+	<section name="mgt">
+		<item key="number" value="4"/>
+		<section name="mgt0">
+			<item key="name" value="HSPI2-J101"/>
+			<item key="bank" value="QUAD236/237/69"/>
+			<item key="slr" value="SLR3/SLR2"/>
+			<item key="type" value="GTY/HP"/>
+			<item key="select" value="false"/>
+		</section>
+		<section name="mgt1">
+			<item key="name" value="HSPI2-J102"/>
+			<item key="bank" value="QUAD230/231/69"/>
+			<item key="slr" value="SLR2"/>
+			<item key="type" value="GTY/HP"/>
+			<item key="select" value="false"/>
+		</section>
+		<section name="mgt2">
+			<item key="name" value="HSPI2-J201"/>
+			<item key="bank" value="QUAD220/221/65"/>
+			<item key="slr" value="SLR0/SLR1"/>
+			<item key="type" value="GTY/HP"/>
+			<item key="select" value="false"/>
+		</section>
+		<section name="mgt3">
+			<item key="name" value="HSPI2-J202"/>
+			<item key="bank" value="QUAD225/226/65"/>
+			<item key="slr" value="SLR1"/>
+			<item key="type" value="GTY/HP"/>
+			<item key="select" value="false"/>
+		</section>
+	</section>
+	<section name="sodimm">
+		<item key="number" value="2"/>
+		<section name="sodimm0">
+			<item key="name" value="SODIMM-DDR4-1"/>
+			<item key="bank" value="BANK61/62/63"/>
+			<item key="slr" value="SLR0"/>
+			<item key="type" value="HP"/>
+			<item key="select" value="false"/>
+		</section>
+		<section name="sodimm1">
+			<item key="name" value="SODIMM-DDR4-2"/>
+			<item key="bank" value="BANK70/71/72"/>
+			<item key="slr" value="SLR2"/>
+			<item key="type" value="HP"/>
+			<item key="select" value="false"/>
+		</section>
+	</section>
+	<section name="qth">
+		<item key="number" value="2"/>
+		<section name="qth0">
+			<item key="name" value="QTH-MGT"/>
+			<item key="select" value="false"/>
+		</section>
+		<section name="qth1">
+			<item key="name" value="QTH-GIO"/>
+			<item key="select" value="false"/>
+		</section>
+	</section>
+</section>
